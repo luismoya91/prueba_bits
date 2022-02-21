@@ -1,0 +1,6 @@
+lanzamiento:
+   path: /lanzamiento
+   controller: App\Controller\LanzamientoController::index
+artista:
+   path: /artista/{id}
+   controller: App\Controller\ArtistaController::index
